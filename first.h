@@ -5,6 +5,6 @@
 #define ONE 1
 
 typedef unsigned int unit_16;
-typedef signed char nit_8;
+typedef signed char unit_8;
 
 #if
